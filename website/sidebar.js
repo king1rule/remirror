@@ -53,6 +53,7 @@ function getApiItems() {
 /** @type import('@docusaurus/plugin-content-docs/lib/types').SidebarItem[] */
 const docs = [
   'introduction',
+  '5-min-tutorial',
   {
     type: 'category',
     label: 'Getting started',
